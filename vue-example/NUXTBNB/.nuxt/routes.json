@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "/home/abdus/vue-example/NUXTBNB/pages/home/_id.vue",
+    "chunkName": "pages/home/_id",
+    "_name": "_107a18da"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/abdus/vue-example/NUXTBNB/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1bcfdeb2"
+  }
+]
